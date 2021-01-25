@@ -8,7 +8,7 @@ Bishop is a high altitude temperate steppe climate, with hot and dry summers and
 
 ## Getting to bishop
 
-# By Plane  
+### By Plane  
 
 There are three major airports each a similar distance away:
 
@@ -21,7 +21,7 @@ Additionally, there is a smaller airport in Mammoth only 45 minutes to the north
 If you happen to own your own general aviation aircraft, you could also fly into Bishop's Eastern Sierra Regional Airport
 (KBIH).
 
-# By Car
+### By Car
 
 To access Bishop by car, you can approach on 395 from the north or south.  The southern approach is recommended in winter months with heavy snow, as the route has lower elevations and roads are not likely to close in a winter storm. To access the northern approach from the SF Bay area, there are a series of passes that traverse the sierra, listed below in order of most likely to be closed during a winter storm:
 
