@@ -1,7 +1,6 @@
 # Traveling to Bishop, California
 
-By Aaron Cohen, distributed for free under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
-
+By Aaron Cohen, distributed for free under the [MIT License](https://github.com/aaronxcohen/bishop-travel-guide/blob/main/LICENSE.md).
 
 ## When to Visit
 
