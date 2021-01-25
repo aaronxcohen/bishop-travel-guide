@@ -121,10 +121,42 @@ I completely understand and I don't shame. I'm a climber, and I love Taco Bell m
 ## What to do
 
 
-### Climbing
+### Bouldering
+
+This guide will by no means replace a good dedicated climbing guidebook, I recommend picking one up from [Eastside Sports](https://eastsidesports.com/collections/climbing-guidebooks).  Instead I'll try to provde a general overview fo the different climbing areas to consider.
+
+#### Happy Boulders
+
+This wide and long canyon has a variety of volcanic stones to ascend, with a convenient warmup area near Monkey Hang (V2/V3) at the entrance.  Park along Chalk Bluff Road and hike up a steep and sandy trail which serves as a brief cardio warmup for the day.
+
+#### Sad Boulders
+
+The Sad Boulders by contrast are in a much narrower canyon to the east of the Happy Boulders along Chalk Bluff Road
+
+#### Buttermilk Boulders
+
+This is highball country, and the climbs are definitely not easy even for intermediate climbers.  
+
+#### Pollen Grains
+
+#### Druid Stones
+
+### Rope climbing
+
+#### Owens River Gorge
 
 
 ### Hiking
+
+**Bishop Pass** is a great hike starting from South Lake, and traveling as far as you'd like for a day trip out and back. The distance Bishop Pass is 5 miles and 3,000 feet of climbing, while the distance to the John Muir Trail junction at Le Conte Ranger Station is 10 miles - most likely too much for a day hike for most people.
+
+Just past Aspendell is **Lake Sabrina** has a number of short hikes to the surrounding lakes, such as Blue lake, Midnight Lake, and Donkey Lake.
+
+While in Bishop you might consider bagging what most consider to be the easiest 14'er in California: **White Mountain**.  With a 15 mile out and back hike and only 3,300 feet of ascent, this hike is much easier than nearby Whitney to the south. Best part: no permit is needed.
+
+If you're in town solely for instagram clout, then **Big Pine Lake** is a must stop, with its beautiful blue waters worth the 16 mile hike.  
+
+
 
 
 ### Hot Springs
